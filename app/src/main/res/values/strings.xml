@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Brain Train</string>
+    <string name="_30s">30s</string>
+    <string name="_11_36">11 + 36</string>
+    <string name="title_activity_result">result</string>
+    <string name="title_activity_see_results">SeeResults</string>
+    <string name="title_activity_score">ScoreActivity</string>
+</resources>
